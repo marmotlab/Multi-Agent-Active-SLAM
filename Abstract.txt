@@ -1,4 +1,4 @@
-# Multi-Agent-Active-SLAM
+# Abstract
 
 Autonomous mobile robots deployed to explore obstructed and unknown areas are required to perform Simultaneous Localization And Mapping (SLAM), and viewpoint planning (active SLAM), which involves determining the next action, whether aiming for a target point or following a path within a specific time horizon.
 For an exploration mission, the agents aim to maximize the accuracy of their mapping while minimizing the time and distance traveled to cover the entire area.
