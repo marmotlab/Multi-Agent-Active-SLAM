@@ -37,52 +37,52 @@ Additional functions files include:
     - union_intervals.py
 
 # Setting Up Your Environment
-    - Create a new environment: you can use either Linux or Conda.
-        - Linux (or WSL) :
-        - Conda : conda create --name env_name python=3.9
+Create a new environment: you can use either Linux or Conda.
+    - Linux (or WSL) :
+    - Conda : conda create --name env_name python=3.9
 
-    - Install Packages:
-        - python : version = 3.9 (terminal : sudo apt-get install python3-pip)
-        - numpy : version = 1.24.1 (terminal : pip3 install numpy)
-        - matplotlib : version = 3.6.3
-        - imageio : version = 2.25.0
-        - shapely : version = last
-        - tqdm : version = last
-        - wandb : version = last
-        - gym : version = 0.21.0
-            - terminal : python3 -m install gym=0.21.0
-            - linux : pip3 install gym==0.21.0 or pip3 install git+https://github.com/openai/gym.git@9180d12e1b66e7e2a1a622614f787a6ec147ac40
-            - alternatively, install from the GitHub repository : https://github.com/openai/gym/releases/tag/v0.21.0
-            - install gym and add the rendering file from from gym==0.21 envs.classic_control
-        - pyglet==1.5.27 (terminal : "python3 -m pip install pyglet==1.5.27")
+Install Packages:
+    - python : version = 3.9 (terminal : sudo apt-get install python3-pip)
+    - numpy : version = 1.24.1 (terminal : pip3 install numpy)
+    - matplotlib : version = 3.6.3
+    - imageio : version = 2.25.0
+    - shapely : version = last
+    - tqdm : version = last
+    - wandb : version = last
+    - gym : version = 0.21.0
+        - terminal : python3 -m install gym=0.21.0
+        - linux : pip3 install gym==0.21.0 or pip3 install git+https://github.com/openai/gym.git@9180d12e1b66e7e2a1a622614f787a6ec147ac40
+        - alternatively, install from the GitHub repository : https://github.com/openai/gym/releases/tag/v0.21.0
+        - install gym and add the rendering file from from gym==0.21 envs.classic_control
+    - pyglet==1.5.27 (terminal : "python3 -m pip install pyglet==1.5.27")
 
-    - Source the environment :
-        - Linux : $source env_folder/bin/activate
-        - Conda : $conda activate env_name
+Source the environment :
+    - Linux : $source env_folder/bin/activate
+    - Conda : $conda activate env_name
 
 # Running an Experiment
-    - Edit Parameters:
-        - open param.py in a code editor like VS Code.
-        - adjust parameters as needed (for multiple runs, parallelize the planner by setting the Boolean to True in param.py)
+Edit Parameters:
+    - open param.py in a code editor like VS Code.
+    - adjust parameters as needed (for multiple runs, parallelize the planner by setting the Boolean to True in param.py)
 
-    - Execute driver : $python3 driver.py or $python driver.py
+Execute driver : $python3 driver.py or $python driver.py
 
-    - Checking results:
-        For a single episode :
-            - navigate to the gif/test***1r*** folder
-            - inside each agent's folder, you will find:
-                - images
-                - gif
-                - history.txt
-                - execution time files (txt)
-                - records (observations, meetings, tracks)
-                - metrics (cost maps, rrt, viewpoint planner, path planner)
-            - review sequences (graphs), episode performance files (data frame and text files), and global execution time (txt).
+Checking results:
+For a single episode :
+    - navigate to the gif/test***1r*** folder
+    - inside each agent's folder, you will find:
+        - images
+        - gif
+        - history.txt
+        - execution time files (txt)
+        - records (observations, meetings, tracks)
+        - metrics (cost maps, rrt, viewpoint planner, path planner)
+        - review sequences (graphs), episode performance files (data frame and text files), and global execution time (txt).
         
-        For multiple runs :
-            - go to the gif/test***100r*** folder (example for 100 runs)
-            - check mission stats (mean performance values, sequences, and median progressions - txt)
-            - check median curves (graphs)
+For multiple runs :
+    - go to the gif/test***100r*** folder (example for 100 runs)
+    - check mission stats (mean performance values, sequences, and median progressions - txt)
+    - check median curves (graphs)
 
 
 Enjoy exploring and utilizing the Multi-Agent SLAM and Active SLAM code! If you have any issues or questions, feel free to reach out.
