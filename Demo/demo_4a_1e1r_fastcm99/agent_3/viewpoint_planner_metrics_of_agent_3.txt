@@ -1,0 +1,717 @@
+Viewpoint Planner metrics records
+---------------
+---------------
+
+
+
+step : 2
+---------------
+has_set_goal : short term
+targets_cost_function : 22
+expected_gain : 4.18435621956
+gain_composition : 
+ explore : 22
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0, 2: 0, 4: 0}
+new_goal_set : (22, 19)
+path_dist : 5
+
+
+
+step : 7
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0, 2: 0, 4: 0}
+new_goal_set : (22, 22)
+path_dist : 3
+
+
+
+step : 12
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0, 2: 0, 4: 0}
+new_goal_set : (22, 25)
+path_dist : 3
+
+
+
+step : 14
+---------------
+has_set_goal : short term
+targets_cost_function : 20
+expected_gain : 3.8039601995999996
+gain_composition : 
+ explore : 20
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0, 2: 0, 4: 0}
+new_goal_set : (22, 29)
+path_dist : 5
+
+
+
+step : 22
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0, 2: 0, 4: 0}
+new_goal_set : (22, 32)
+path_dist : 3
+
+
+
+step : 23
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 15
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0, 2: 1, 4: 0}
+new_goal_set : (25, 30)
+path_dist : 3
+
+
+
+step : 26
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0, 2: 0, 4: 0}
+new_goal_set : (28, 30)
+path_dist : 3
+
+
+
+step : 29
+---------------
+has_set_goal : short term
+targets_cost_function : 19
+expected_gain : 6.145226999999999
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0, 2: 3, 4: 0}
+new_goal_set : (28, 27)
+path_dist : 3
+
+
+
+step : 32
+---------------
+has_set_goal : short term
+targets_cost_function : 26
+expected_gain : 6.243874065
+gain_composition : 
+ explore : 21
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 1, 2: 4, 4: 0}
+new_goal_set : (28, 23)
+path_dist : 4
+
+
+
+step : 36
+---------------
+has_set_goal : short term
+targets_cost_function : 35
+expected_gain : 6.6569303493
+gain_composition : 
+ explore : 3
+ loop : {3: 21, 1: 0, 2: 0, 4: 0}
+ meet : {2: 11}
+new_goal_set : (23, 23)
+path_dist : 5
+
+
+
+step : 41
+---------------
+has_set_goal : short term
+targets_cost_function : 28
+expected_gain : 9.056124
+gain_composition : 
+ explore : 1
+ loop : {3: 25, 1: 0, 2: 0, 4: 0}
+ meet : {2: 2}
+new_goal_set : (21, 24)
+path_dist : 3
+
+
+
+step : 42
+---------------
+has_set_goal : short term
+targets_cost_function : 9
+expected_gain : 2.9108970000000003
+gain_composition : 
+ explore : 0
+ loop : {3: 1, 1: 0, 2: 0, 4: 0}
+ meet : {1: 1, 2: 3, 4: 4}
+new_goal_set : (22, 27)
+path_dist : 3
+
+
+
+step : 45
+---------------
+has_set_goal : short term
+targets_cost_function : 12
+expected_gain : 2.88178803
+gain_composition : 
+ explore : 1
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0, 2: 1, 4: 10}
+new_goal_set : (21, 24)
+path_dist : 4
+
+
+
+step : 49
+---------------
+has_set_goal : short term
+targets_cost_function : 31
+expected_gain : 2.2898275852666674
+gain_composition : 
+ explore : 21
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 10, 4: 0}
+new_goal_set : (18, 33)
+path_dist : 12
+
+
+
+step : 51
+---------------
+has_set_goal : short term
+targets_cost_function : 29
+expected_gain : 2.622708017525533
+gain_composition : 
+ explore : 21
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 8, 4: 0}
+new_goal_set : (17, 32)
+path_dist : 10
+
+
+
+step : 62
+---------------
+has_set_goal : short term
+targets_cost_function : 23
+expected_gain : 7.4389590000000005
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 7, 4: 0}
+new_goal_set : (14, 32)
+path_dist : 3
+
+
+
+step : 65
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {4: 0}
+new_goal_set : (11, 32)
+path_dist : 3
+
+
+
+step : 70
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {4: 0}
+new_goal_set : (8, 32)
+path_dist : 3
+
+
+
+step : 73
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {4: 0}
+new_goal_set : (5, 32)
+path_dist : 3
+
+
+
+step : 76
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (5, 29)
+path_dist : 3
+
+
+
+step : 79
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (5, 26)
+path_dist : 3
+
+
+
+step : 84
+---------------
+has_set_goal : short term
+targets_cost_function : 30
+expected_gain : 5.7059402994
+gain_composition : 
+ explore : 6
+ loop : {3: 0, 1: 0, 2: 0, 4: 24}
+ meet : {}
+new_goal_set : (10, 26)
+path_dist : 5
+
+
+
+step : 89
+---------------
+has_set_goal : short term
+targets_cost_function : 34
+expected_gain : 10.996722
+gain_composition : 
+ explore : 0
+ loop : {3: 0, 1: 0, 2: 0, 4: 34}
+ meet : {}
+new_goal_set : (11, 24)
+path_dist : 3
+
+
+
+step : 92
+---------------
+has_set_goal : short term
+targets_cost_function : 38
+expected_gain : 12.290453999999999
+gain_composition : 
+ explore : 1
+ loop : {3: 0, 1: 2, 2: 7, 4: 37}
+ meet : {}
+new_goal_set : (13, 25)
+path_dist : 3
+
+
+
+step : 93
+---------------
+has_set_goal : short term
+targets_cost_function : 39
+expected_gain : 12.613887
+gain_composition : 
+ explore : 1
+ loop : {3: 0, 1: 2, 2: 0, 4: 38}
+ meet : {}
+new_goal_set : (12, 28)
+path_dist : 3
+
+
+
+step : 96
+---------------
+has_set_goal : short term
+targets_cost_function : 42
+expected_gain : 10.086258104999999
+gain_composition : 
+ explore : 1
+ loop : {3: 6, 1: 41, 2: 4, 4: 20}
+ meet : {}
+new_goal_set : (15, 27)
+path_dist : 4
+
+
+
+step : 100
+---------------
+has_set_goal : short term
+targets_cost_function : 21
+expected_gain : 1.417533960229102
+gain_composition : 
+ explore : 21
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (4, 21)
+path_dist : 13
+
+
+
+step : 111
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (5, 19)
+path_dist : 3
+
+
+
+step : 112
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (5, 18)
+path_dist : 3
+
+
+
+step : 113
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (5, 17)
+path_dist : 3
+
+
+
+step : 117
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (5, 14)
+path_dist : 3
+
+
+
+step : 118
+---------------
+has_set_goal : short term
+targets_cost_function : 21
+expected_gain : 1.0412827682977919
+gain_composition : 
+ explore : 21
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0}
+new_goal_set : (15, 8)
+path_dist : 17
+
+
+
+step : 129
+---------------
+has_set_goal : short term
+targets_cost_function : 19
+expected_gain : 2.9813538064365
+gain_composition : 
+ explore : 19
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0}
+new_goal_set : (14, 7)
+path_dist : 6
+
+
+
+step : 132
+---------------
+has_set_goal : short term
+targets_cost_function : 17
+expected_gain : 4.0825330425
+gain_composition : 
+ explore : 17
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0}
+new_goal_set : (15, 7)
+path_dist : 4
+
+
+
+step : 140
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0}
+new_goal_set : (18, 6)
+path_dist : 3
+
+
+
+step : 141
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0}
+new_goal_set : (19, 6)
+path_dist : 3
+
+
+
+step : 148
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (22, 6)
+path_dist : 3
+
+
+
+step : 151
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (25, 6)
+path_dist : 3
+
+
+
+step : 156
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (25, 3)
+path_dist : 3
+
+
+
+step : 159
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (28, 6)
+path_dist : 3
+
+
+
+step : 163
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (31, 6)
+path_dist : 3
+
+
+
+step : 168
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (31, 9)
+path_dist : 3
+
+
+
+step : 171
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (31, 12)
+path_dist : 3
+
+
+
+step : 172
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (31, 13)
+path_dist : 3
+
+
+
+step : 177
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (31, 16)
+path_dist : 3
+
+
+
+step : 179
+---------------
+has_set_goal : short term
+targets_cost_function : 16
+expected_gain : 5.174928
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (31, 19)
+path_dist : 3
+
+
+
+step : 182
+---------------
+has_set_goal : short term
+targets_cost_function : 41
+expected_gain : 7.798118409179999
+gain_composition : 
+ explore : 16
+ loop : {3: 25, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (31, 24)
+path_dist : 5
+
+
+
+step : 186
+---------------
+has_set_goal : short term
+targets_cost_function : 57
+expected_gain : 18.435681
+gain_composition : 
+ explore : 3
+ loop : {3: 54, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (28, 23)
+path_dist : 3
+
+
+
+step : 189
+---------------
+has_set_goal : short term
+targets_cost_function : 62
+expected_gain : 20.052846
+gain_composition : 
+ explore : 4
+ loop : {3: 58, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (29, 25)
+path_dist : 3
+
+
+
+step : 192
+---------------
+has_set_goal : short term
+targets_cost_function : 66
+expected_gain : 21.346577999999997
+gain_composition : 
+ explore : 4
+ loop : {3: 62, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (29, 28)
+path_dist : 3
+
+
+
+step : 195
+---------------
+has_set_goal : short term
+targets_cost_function : 69
+expected_gain : 22.316877
+gain_composition : 
+ explore : 4
+ loop : {3: 65, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (29, 31)
+path_dist : 3
