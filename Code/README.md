@@ -2,7 +2,7 @@ Welcome to the Multi-Agent SLAM and Active SLAM code repository!
 
 This README will guide you through the structure of the code, setting up your environment, running experiments, and checking results.
 
-#Code Structure
+# Code Structure
 The codebase consists of the following files:
     - param.py: contains the parameters for the experiments, such as Environment, Agents, Episodes, Planning mode, Rendering, etc.
     - imposed_world.py: contains predefined worlds for the experiments, including indoor, semi-open, and open environments
@@ -36,7 +36,7 @@ Additional functions files include:
     - render.py
     - union_intervals.py
 
-#Setting Up Your Environment
+# Setting Up Your Environment
     - Create a new environment: you can use either Linux or Conda.
         - Linux (or WSL) :
         - Conda : conda create --name env_name python=3.9
@@ -60,7 +60,7 @@ Additional functions files include:
         - Linux : $source env_folder/bin/activate
         - Conda : $conda activate env_name
 
-#Running an Experiment
+# Running an Experiment
     - Edit Parameters:
         - open param.py in a code editor like VS Code.
         - adjust parameters as needed (for multiple runs, parallelize the planner by setting the Boolean to True in param.py)
