@@ -1,0 +1,28 @@
+Execution time to record and get statistics
+---------------
+---------------
+
+max cm goal exec times : 
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+ n time called : 38
+ max (s) : 0.0
+ higher values : [(0, 0.0), (1, 0.0), (2, 0.0), (3, 0.0), (4, 0.0), (5, 0.0), (6, 0.0), (7, 0.0), (8, 0.0), (9, 0.0)]
+ min (s) : 0.0
+ mean (s) : 0.0
+ std (s) : 0.0
+ total time (s) : 0.0
+
+fast cm goal exec times : 
+[]
+
+multi_goals - global exec times : 
+[]
+
+multi_goals - cluster exec times : 
+[]
+
+multi_goals - motsp time exec times : 
+[]
+
+multi_goals - motsp n_dfs exec times : 
+[]

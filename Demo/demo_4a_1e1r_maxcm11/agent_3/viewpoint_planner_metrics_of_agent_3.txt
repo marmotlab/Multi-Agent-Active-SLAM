@@ -1,0 +1,459 @@
+Viewpoint Planner metrics records
+---------------
+---------------
+
+
+
+step : 2
+---------------
+has_set_goal : max
+expected_gain : 23
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0, 2: 0, 4: 0}
+new_goal_set : (20, 14)
+
+
+
+step : 8
+---------------
+has_set_goal : max
+expected_gain : 23
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0, 2: 0, 4: 0}
+new_goal_set : (22, 10)
+
+
+
+step : 14
+---------------
+has_set_goal : max
+expected_gain : 28
+gain_composition : 
+ explore : 21
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 4, 2: 2, 4: 1}
+new_goal_set : (23, 19)
+
+
+
+step : 20
+---------------
+has_set_goal : max
+expected_gain : 30
+gain_composition : 
+ explore : 21
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0, 2: 6, 4: 3}
+new_goal_set : (14, 13)
+
+
+
+step : 25
+---------------
+has_set_goal : max
+expected_gain : 35
+gain_composition : 
+ explore : 7
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 18, 2: 0, 4: 10}
+new_goal_set : (23, 21)
+
+
+
+step : 26
+---------------
+has_set_goal : max
+expected_gain : 23
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0, 2: 0, 4: 0}
+new_goal_set : (27, 13)
+
+
+
+step : 37
+---------------
+has_set_goal : max
+expected_gain : 31
+gain_composition : 
+ explore : 1
+ loop : {3: 0, 1: 7, 2: 0, 4: 4}
+ meet : {1: 2, 2: 20, 4: 1}
+new_goal_set : (20, 18)
+
+
+
+step : 44
+---------------
+has_set_goal : max
+expected_gain : 27
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 4, 2: 0, 4: 0}
+new_goal_set : (25, 25)
+
+
+
+step : 48
+---------------
+has_set_goal : max
+expected_gain : 29
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 4, 2: 2, 4: 0}
+new_goal_set : (19, 27)
+
+
+
+step : 52
+---------------
+has_set_goal : max
+expected_gain : 28
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 4, 2: 1, 4: 0}
+new_goal_set : (19, 27)
+
+
+
+step : 58
+---------------
+has_set_goal : max
+expected_gain : 23
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (15, 29)
+
+
+
+step : 60
+---------------
+has_set_goal : max
+expected_gain : 23
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (15, 31)
+
+
+
+step : 66
+---------------
+has_set_goal : max
+expected_gain : 23
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (20, 32)
+
+
+
+step : 70
+---------------
+has_set_goal : max
+expected_gain : 23
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (24, 28)
+
+
+
+step : 81
+---------------
+has_set_goal : max
+expected_gain : 30
+gain_composition : 
+ explore : 0
+ loop : {3: 30, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (21, 21)
+
+
+
+step : 90
+---------------
+has_set_goal : max
+expected_gain : 23
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (28, 25)
+
+
+
+step : 101
+---------------
+has_set_goal : max
+expected_gain : 23
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (28, 31)
+
+
+
+step : 107
+---------------
+has_set_goal : max
+expected_gain : 17
+gain_composition : 
+ explore : 17
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0}
+new_goal_set : (32, 34)
+
+
+
+step : 109
+---------------
+has_set_goal : max
+expected_gain : 22
+gain_composition : 
+ explore : 22
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0}
+new_goal_set : (32, 21)
+
+
+
+step : 120
+---------------
+has_set_goal : max
+expected_gain : 23
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0}
+new_goal_set : (31, 12)
+
+
+
+step : 131
+---------------
+has_set_goal : max
+expected_gain : 28
+gain_composition : 
+ explore : 3
+ loop : {3: 25, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0}
+new_goal_set : (24, 12)
+
+
+
+step : 135
+---------------
+has_set_goal : max
+expected_gain : 23
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0}
+new_goal_set : (26, 8)
+
+
+
+step : 144
+---------------
+has_set_goal : max
+expected_gain : 23
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0}
+new_goal_set : (24, 4)
+
+
+
+step : 151
+---------------
+has_set_goal : max
+expected_gain : 25
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 2}
+new_goal_set : (32, 7)
+
+
+
+step : 156
+---------------
+has_set_goal : max
+expected_gain : 22
+gain_composition : 
+ explore : 22
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0}
+new_goal_set : (19, 5)
+
+
+
+step : 164
+---------------
+has_set_goal : max
+expected_gain : 23
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0}
+new_goal_set : (15, 3)
+
+
+
+step : 171
+---------------
+has_set_goal : max
+expected_gain : 23
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0}
+new_goal_set : (11, 5)
+
+
+
+step : 178
+---------------
+has_set_goal : max
+expected_gain : 23
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0}
+new_goal_set : (7, 2)
+
+
+
+step : 186
+---------------
+has_set_goal : max
+expected_gain : 23
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {1: 0}
+new_goal_set : (3, 7)
+
+
+
+step : 191
+---------------
+has_set_goal : max
+expected_gain : 30
+gain_composition : 
+ explore : 6
+ loop : {3: 0, 1: 2, 2: 24, 4: 0}
+ meet : {}
+new_goal_set : (11, 11)
+
+
+
+step : 202
+---------------
+has_set_goal : max
+expected_gain : 38
+gain_composition : 
+ explore : 6
+ loop : {3: 2, 1: 0, 2: 32, 4: 0}
+ meet : {}
+new_goal_set : (17, 11)
+
+
+
+step : 203
+---------------
+has_set_goal : max
+expected_gain : 23
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (4, 15)
+
+
+
+step : 207
+---------------
+has_set_goal : max
+expected_gain : 23
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (2, 15)
+
+
+
+step : 210
+---------------
+has_set_goal : max
+expected_gain : 21
+gain_composition : 
+ explore : 21
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (6, 21)
+
+
+
+step : 221
+---------------
+has_set_goal : max
+expected_gain : 23
+gain_composition : 
+ explore : 23
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (6, 32)
+
+
+
+step : 232
+---------------
+has_set_goal : max
+expected_gain : 27
+gain_composition : 
+ explore : 1
+ loop : {3: 6, 1: 26, 2: 0, 4: 5}
+ meet : {}
+new_goal_set : (15, 25)
+
+
+
+step : 238
+---------------
+has_set_goal : max
+expected_gain : 21
+gain_composition : 
+ explore : 21
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (2, 31)
+
+
+
+step : 247
+---------------
+has_set_goal : max
+expected_gain : 16
+gain_composition : 
+ explore : 16
+ loop : {3: 0, 1: 0, 2: 0, 4: 0}
+ meet : {}
+new_goal_set : (1, 26)
