@@ -1,0 +1,117 @@
+Execution time to record and get statistics
+---------------
+---------------
+
+explore_cost_map exec times : 
+[]
+
+loop_cost_map exec times : 
+[]
+
+loop_cost_map - get_loop_trace_u_x_distrib exec times : 
+[]
+
+loop_cost_map - i_operations exec times : 
+[]
+
+loop_cost_map - n_operations exec times : 
+[]
+
+loop_cost_map - max_j_operations exec times : 
+[]
+
+loop_cost_map - f_operations exec times : 
+[]
+
+loop_cost_map - max_stdev exec times : 
+[]
+
+loop_cost_map - max_blind_v exec times : 
+[]
+
+loop_cost_map - sum_blind_v exec times : 
+[]
+
+loop_cost_map - get loop trace u x distrib - part1 exec times : 
+[]
+
+loop_cost_map - get loop trace u x distrib - part1toc exec times : 
+[]
+
+loop_cost_map - get loop trace u x distrib - part2 exec times : 
+[]
+
+loop_cost_map - get loop trace u x distrib - part2toc1 exec times : 
+[]
+
+loop_cost_map - get loop trace u x distrib - part2toc1toc1a exec times : 
+[]
+
+loop_cost_map - get loop trace u x distrib - part2toc1toc1b exec times : 
+[]
+
+loop_cost_map - get loop trace u x distrib - part2toc1toc1c exec times : 
+[]
+
+loop_cost_map - get loop trace u x distrib - part2toc1toc2 exec times : 
+[]
+
+loop_cost_map - get loop trace u x distrib - part2toc1toc3 exec times : 
+[]
+
+loop_cost_map - get loop trace u x distrib - part2toc2 exec times : 
+[]
+
+presence_distrib - init exec times : 
+[]
+
+presence_distrib - mc exec times : 
+[]
+
+presence_distrib - mc - part1 exec times : 
+[]
+
+presence_distrib - mc - part2a exec times : 
+[]
+
+presence_distrib - mc - part2b exec times : 
+[]
+
+presence_distrib - mc - part3 exec times : 
+[]
+
+presence_distrib - mc - part4 exec times : 
+[]
+
+presence_distrib - mc - part5 exec times : 
+[]
+
+presence_distrib - mc - ftime exec times : 
+[]
+
+presence_distrib - mc - fn_calls exec times : 
+[]
+
+presence_distrib - mc - n_steps exec times : 
+[]
+
+presence_distrib - mc - n_steps_list exec times : 
+[]
+
+presence_distrib - mc - n_parts exec times : 
+[]
+
+presence_distrib - mc - selection exec times : 
+[]
+
+presence_distrib - plans exec times : 
+[]
+
+presence_distrib - simple exec times : 
+[]
+
+presence_distrib - global exec times : 
+[]
+
+meet_cost_maps exec times : 
+[]

@@ -1,0 +1,45 @@
+Global Performance of the Episode
+---------------
+---------------
+
+
+final : 
+agents_success_bool_final : [False, False, False, False]
+agents_success_step_final : [False, False, False, False]
+exploring_completeness_final : [41.3, 62.8, 63.7, 56.6]
+exploring_redundancy_final : [19, 21, 20, 19]
+mapping_correctness_final : [97.1, 100.0, 100.0, 98.9]
+obs_mean_error_team_final : [0, 0, 0, 0]
+obs_mean_bv_team_final : [0, 0, 0.01, 0]
+mapping_entropy_uncertain_final : [263.7, 167.0, 162.9, 194.8]
+mapping_entropy_unknown_final : [253.7, 160.7, 156.7, 187.3]
+n_new_meetings_final : [9, 9, 12, 9]
+n_new_data_final : [9, 12, 20, 15]
+meeting_avg_cost_final : [35.89, 93.56, 61.0, 82.56]
+meeting_loops_avg_cost_final : [16.15, 38.27, 18.77, 26.54]
+loops_avg_cost_final : [10.08, 6.61, 7.34, 4.84]
+loops_correcting_avg_cost_final : [18.73, 13.31, 16.14, 10.49]
+score_final : [4054, 2959, 3732, 3243]
+
+are : 
+exploring_completeness_are : [30.0, 36.1, 34.1, 34.5]
+exploring_redundancy_are : [13.5, 14.4, 14.4, 14.4]
+mapping_correctness_are : [94.1, 70.8, 95.2, 94.9]
+robot_localization_error_are : [0.3, 1.2, 0.9, 0.2]
+obs_mean_error_team_are : [0.0, 0.4, 0.0, 0.0]
+obs_mean_error_self_are : [0.0, 0.6, 0.1, 0.0]
+robot_entropy_are : [0.4, 1.0, 0.5, 0.3]
+obs_mean_bv_team_are : [0.2, 4.3, 0.2, 0.7]
+mapping_entropy_uncertain_are : [315.4, 299.1, 296.4, 295.2]
+mapping_entropy_unknown_are : [302.6, 275.9, 284.5, 282.8]
+global_entropy_are : [0.5, 0.8, 0.5, 0.6]
+team_lastly_seen_mean_ts_are : [(76, 250), (47, 250), (45, 250), (46, 250)]
+team_lastly_seen_mean_ts_corr_are : [75.7, 46.5, 44.7, 46.1]
+team_agents_known_perc_are : [100.0, 100.0, 100.0, 100.0]
+team_known_perc_are : [44.9, 56.1, 61.2, 57.8]
+
+oth : 
+new_meetings_frequency : [17, 40, 27, 30]
+new_meetings_itv_median : [10, 37, 12, 21]
+disconnection_max : [148, 92, 100, 84]
+correcting_max_cost : [148, 362, 220, 226]
